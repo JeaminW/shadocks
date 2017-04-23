@@ -18,10 +18,10 @@ or just
 
 with default password `shadowsocks` and default method `aes-256-cfb`.
 
-### Other Usage
+## Other Usage
 
 You can edit the Dockerfile for further customization or just reference.
 
-### License
+## License
 
 WTFPL
